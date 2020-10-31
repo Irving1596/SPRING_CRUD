@@ -1,2 +1,2 @@
 # SPRING_CRUD
-RESTful con Spring Boot
+RESTful API con Spring Boot y POSTGRESQL
